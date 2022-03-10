@@ -1,0 +1,1 @@
+bq mk --external_table_definition=table_def.json RegistryDataset.results

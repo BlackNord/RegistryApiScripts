@@ -1,0 +1,14 @@
+{
+  "sourceFormat": "BIGTABLE",
+  "sourceUris": [
+    "https://googleapis.com/bigtable/projects/nord-registry/instances/registry-api-scripts/tables/results"
+  ],
+  "bigtableOptions": {
+    "columnFamilies": [
+      {
+        "familyId": "result",
+        "type": "STRING"
+      }
+    ]
+  }
+}
