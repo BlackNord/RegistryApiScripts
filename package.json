@@ -1,0 +1,11 @@
+{
+    "name": "sample-pubsub",
+    "version": "0.0.1",
+    "type": "module",
+    "dependencies": {
+        "@google-cloud/bigtable": "^3.9.2",
+        "@google-cloud/pubsub": "^0.18.0",
+        "axios": "^0.26.1",
+        "uuid": "^8.3.2"
+    }
+}
